@@ -1,15 +1,15 @@
 # صلحها
-### _[Project Tagline / Short Description]_
+### _UI/UX design for a mobile application that arranges jobs for technicians with their ideal customers_
 
 ---
 
 ##  Team Members
 - **Ghadeer Ahmad Othman**  
 - **Nada fathy Mohammed**  
-- **[Member Name]**  
-- **[Member Name]**  
-- **[Member Name]**
-- **[Member Name]**
+- **Jana Mohamed Mohamed Uthman**  
+- **Aya Ahmed Mohammed**  
+- **Salwa Sayed Shaalan**
+- **Khadija Hesham Youssef**
 
 ---
 
