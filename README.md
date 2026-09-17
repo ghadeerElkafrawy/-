@@ -9,7 +9,7 @@
 - **Jana Mohamed Mohamed Uthman**  
 - **Aya Ahmed Mohammed**  
 - **Salwa Sayed Shaalan**
-- **Khadija Hesham Youssef**
+- **Khadiga Hesham Youssef**
 
 ---
 
