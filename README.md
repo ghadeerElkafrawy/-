@@ -19,8 +19,9 @@
 ---
 
 ##  Project Overview
-[Write a clear paragraph explaining what the project is about, what problem it solves, and how it will be presented.]
-
+The project aims to help users search for technicians that fix problems in their homes. The user searches and filters through categories. There is also a community where users can share their opinions on technicians, share personal experiences and tips to help fix their problems. An AI feature is added in the design, where there is a character that guides the user to find a solution or their perfect fit with a technician.
+Payment is through the website, So there will be a commision that goes to website owners.
+The project will be represented through an accessible responsive website, that can fit to mobile dimensions too. Done in Figma, with a complete prototype and presentation.
 ---
 
 ## Project Objectives
@@ -62,3 +63,7 @@
 
 ### Week 5 — [Title]
 - [Task]  
+
+
+## Project link
+- Figma File: https://www.figma.com/design/nFHFjgbcVe7UDCBHM9ZpeU/842-Team4-Fix-it?node-id=60-2&t=E0T2fYApcj9yxnYd-1
